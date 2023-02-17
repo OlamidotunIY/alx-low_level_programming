@@ -1,11 +1,10 @@
 #include <stdio.h>
 
 /**
- * main -  prints the alphabet in lowercase, and then in uppercase, followed by a new line.
- * Code By: Iyanda Olamidotun
+ * main - Prints the alphabet in lowercase, and then in uppercase
+ * Code By: Iyanda Dotun
  * Return: 0
 */
-
 int main(void)
 {
 	char letter;
