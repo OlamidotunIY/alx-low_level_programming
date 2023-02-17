@@ -2,6 +2,11 @@
 #include <time.h>
 #include <stdlib.h>
 
+/**
+ * main - The last digit
+ * Code By: Iyanda Olamidotun
+ * Return: 0
+*/
 
 int main(void)
 {
