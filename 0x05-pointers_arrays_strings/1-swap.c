@@ -1,16 +1,18 @@
 #include "main.h"
 
 /**
- * reset_to_98 - takes the pointer and updates the value
- * @n: int to check
+ * swap_int - swap the value for a and b
+ * @a: first int
+ * @b: second int
+ * @n: temporary variable
  * Return: 0
  */
 
 void swap_int(int *a, int *b)
 {
 	int s;
-	
-	s = *a;
+
+	n = *a;
 	*a = *b;
-	*b = s;
+	*b = n;
 }
