@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * swap_int - swap the value for a and b
+ * swap_int - gives the value of @n to b and gives the value of @b to @a
  * @a: first int
  * @b: second int
  * @n: temporary variable
