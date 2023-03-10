@@ -1,4 +1,4 @@
-i#include "main.h"
+#include "main.h"
 /**
  * _strlen - prints the length of a string
  * @s: pointer to an array of characters
